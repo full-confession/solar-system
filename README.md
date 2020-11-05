@@ -1,5 +1,5 @@
 # solar-system
-3d model of the solar system using directx 11
+3d model of the Solar System using directx 11
 
 Top down view
 ![Alt text](/Screenshots/topdown.PNG?raw=true "Top down view image")
